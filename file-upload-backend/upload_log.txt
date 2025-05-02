@@ -7,3 +7,4 @@
 [2025-05-03 00:21:57.752563] Uploaded: MANSI RESUME (2).pdf as MANSI RESUME (2)_52eba0a8.pdf | Category: HR
 [2025-05-03 00:22:28.555440] Deleted: 25042800209447SBIN_ChallanReceipt (1)_0d44c597.pdf | Category: Sales
 [2025-05-03 00:23:00.239197] Uploaded: MANSI RESUME (2).pdf as MANSI RESUME (2)_1b9b7f1d.pdf | Category: It
+[2025-05-03 01:21:12.420346] Uploaded: WhatsApp Image 2025-03-25 at 14.50.44.jpeg as WhatsApp Image 2025-03-25 at 14.50.44_3f282288.jpeg | Category: client
