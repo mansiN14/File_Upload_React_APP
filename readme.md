@@ -2,8 +2,6 @@
 
 A full-stack web application for managing file uploads across different categories, with a React frontend and Flask backend.
 
-![File Upload App](https://via.placeholder.com/800x400?text=File+Upload+Application)
-
 ## Features
 
 - **File Upload Management**: Upload PDF and image files (JPG/JPEG) with size validation
