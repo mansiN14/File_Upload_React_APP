@@ -1,0 +1,9 @@
+[2025-05-03 00:17:12.588054] Uploaded: 25042800209447SBIN_ChallanReceipt (1).pdf as 25042800209447SBIN_ChallanReceipt (1)_ce7dbcf3.pdf | Category: HR
+[2025-05-03 00:17:22.816425] Deleted: 25042800209447SBIN_ChallanReceipt_1.pdf | Category: HR
+[2025-05-03 00:18:09.564227] Uploaded: 25042800209447SBIN_ChallanReceipt.pdf as 25042800209447SBIN_ChallanReceipt_3ca60cf8.pdf | Category: Sales
+[2025-05-03 00:18:56.009324] Deleted: 25042800209447SBIN_ChallanReceipt_3ca60cf8.pdf | Category: Sales
+[2025-05-03 00:18:58.102330] Deleted: 25042800209447SBIN_ChallanReceipt_1.pdf | Category: Sales
+[2025-05-03 00:19:07.354909] Uploaded: 25042800209447SBIN_ChallanReceipt (1).pdf as 25042800209447SBIN_ChallanReceipt (1)_0d44c597.pdf | Category: Sales
+[2025-05-03 00:21:57.752563] Uploaded: MANSI RESUME (2).pdf as MANSI RESUME (2)_52eba0a8.pdf | Category: HR
+[2025-05-03 00:22:28.555440] Deleted: 25042800209447SBIN_ChallanReceipt (1)_0d44c597.pdf | Category: Sales
+[2025-05-03 00:23:00.239197] Uploaded: MANSI RESUME (2).pdf as MANSI RESUME (2)_1b9b7f1d.pdf | Category: It
